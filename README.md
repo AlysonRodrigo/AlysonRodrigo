@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/alyson-rodrigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 - 🔭 Sou um desenvolvedor JAVA Jr
-- 🌱  atualmente estou fazendo o Bootcamp na Generation Brasil    
+- 🌱  atualmente estou fazendo o Bootcamp na Generation Brasil    <img align='right' src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="350">
 - 📫 alysonrodrigo15@gmail.com
 - ⚡ Gosto de Animes e Jogos
 
