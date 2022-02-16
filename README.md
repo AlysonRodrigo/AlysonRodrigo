@@ -8,10 +8,17 @@
   <a href="https://www.linkedin.com/in/alyson-rodrigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 - 🔭 Sou um desenvolvedor JAVA Jr
-- 🌱  atualmente estou fazendo o Bootcamp na Generation Brasil    <img align='right' src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="350">
+    
+ <img align='right' src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="350">
 - 📫 alysonrodrigo15@gmail.com
 - ⚡ Gosto de Animes e Jogos
+ 
+ 
 
+ 
+ 
+ 
+ .
   <div>
   <a href="https://github.com/AlysonRodrigo">
   <img  alingn="center" height = "180em" src = "https://github-readme-stats.vercel.app/api?username=AlysonRodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />   
